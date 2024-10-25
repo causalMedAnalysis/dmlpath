@@ -75,5 +75,5 @@ Email: [wodtke@uchicago.edu](mailto:wodtke@uchicago.edu)
 
 ## See Also
 
-- Stata manual: [regress](https://www.stata.com/manuals/rregress.pdf), [logit](https://www.stata.com/manuals/rlogit.pdf), [bootstrap](https://www.stata.com/manuals/rbootstrap.pdf)
+- `rforest`, `lasso2`, `lassologit`
   
